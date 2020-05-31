@@ -1,0 +1,11 @@
+H:\c#\Phone book 16-31119-1\Phonebook\bin\Debug\Phonebook.exe
+H:\c#\Phone book 16-31119-1\Phonebook\bin\Debug\Phonebook.pdb
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.MainForm.resources
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.ItemForm.resources
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.UserForm.resources
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.Properties.Resources.resources
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.csproj.GenerateResource.cache
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.exe
+H:\c#\Phone book 16-31119-1\Phonebook\obj\Debug\Phonebook.pdb
